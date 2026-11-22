@@ -11,7 +11,7 @@ This page provides context for the summary numbers. The outcomes are **recorded 
 - **Interpretation:** the tested condition had higher exact complete-task success on this task set.
 - **Boundary:** the dataset is synthetic; this result is not a public benchmark score or proof of similar accuracy on open-ended tasks.
 
-![Paired complete-task comparison](figures/complete_task_success.png)
+![Paired complete-task comparison](complete_task_success.png)
 
 ## 2. Learning and knowledge accuracy
 
@@ -25,7 +25,7 @@ In a controlled study of **120,000 generated learning events**:
 
 In that study, the two learning conditions recorded **2,163** and **59** harmful knowledge updates, respectively. The static condition is **not** a comparable denominator for that update-reduction comparison because it does not perform learning updates.
 
-![Controlled learning accuracy](figures/learning_accuracy.png)
+![Controlled learning accuracy](learning_accuracy.png)
 
 **Boundary:** this is a generated-event experiment, not a demonstration of general continual learning in unrestricted real-world use.
 
