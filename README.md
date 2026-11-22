@@ -30,15 +30,15 @@ The results have different test designs and should **not** be combined into a si
 
 **Complete-task success** — exact whole-task correctness, not the accuracy of individual steps.
 
-![Complete task success in a matched synthetic comparison](figures/complete_task_success.png)
+![Complete task success in a matched synthetic comparison](complete_task_success.png)
 
 **Knowledge accuracy** — three conditions in one controlled learning study.
 
-![Knowledge accuracy in three controlled learning conditions](figures/learning_accuracy.png)
+![Knowledge accuracy in three controlled learning conditions](learning_accuracy.png)
 
 ## Short research overview
 
-[Read the two-page overview (PDF)](documents/research-introduction-nov-2026.pdf).
+[Read the two-page overview (PDF)](research-introduction-nov-2026.pdf).
 
 For precise context, see [RESULTS.md](RESULTS.md). For the public research timeline, see [UPDATES.md](UPDATES.md).
 
