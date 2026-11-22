@@ -1,0 +1,9 @@
+study,condition,value,unit,test_scope
+Exact whole-task success,Control,6.8327,percent,"25,000,000 matched synthetic queries per condition"
+Exact whole-task success,Tested condition,47.4030,percent,"25,000,000 matched synthetic queries per condition"
+Knowledge accuracy,Static comparison,87.297,percent,"120,000 generated learning events"
+Knowledge accuracy,Learning without the same checks,91.242,percent,"120,000 generated learning events"
+Knowledge accuracy,Learning with checks,99.003,percent,"120,000 generated learning events"
+Harmful updates,Learning without the same checks,2163,count,"120,000 generated learning events"
+Harmful updates,Learning with checks,59,count,"120,000 generated learning events"
+Modeled memory maintenance,Minimum work reduction across five runs,62.651,percent,Five separate million-event simulated runs
