@@ -57,4 +57,20 @@ Detailed implementation and unpublished methods are not part of this public repo
 
 **First public introduction:** [LinkedIn research update](https://www.linkedin.com/feed/update/urn:li:activity:7530185731298811904/)
 
+## Research Publications
+
+### Part I — Research Introduction
+Initial experimental findings in continuous learning, reasoning reliability, knowledge preservation, and computational efficiency.
+
+[Read Part I (PDF)](research-introduction-nov-2026.pdf)
+
+### Part II — From Controlled Experiments to Executable Intelligence
+Published: 27 November 2026
+
+Further experimental findings in autonomous learning, mathematical verification, reasoning, language understanding, and system reliability, along with progress toward executable intelligence.
+
+[Read Part II (PDF)](research-paper-part-ii-nov-2026.pdf)
+
+Both documents are part of my ongoing independent AI research.
+
 — Deepak Kainthal
