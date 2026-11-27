@@ -40,3 +40,24 @@ Across **five separate simulated runs of one million events each**, the recorded
 These are selected aggregate values from archived research-test records. The public overview was prepared from those saved records; the underlying experiments were not independently rerun for this release.
 
 Public material here includes charts and a short explanation. Detailed test-generation logic, private datasets, and implementation are not provided. This limits outside replication at the current stage. I intend to keep reporting the evaluated scope, positive findings, and important failures as the work develops.
+
+---
+
+## Part II — Further Research Findings
+
+Published: 27 November 2026
+
+| Research area | Recorded result |
+|---|---|
+| Finite-domain learning | 72/72 supported tasks successfully learned |
+| Learning verification | 48/48 incorrect candidates rejected |
+| Conditional statistical evaluation | 1,200/1,200 intervals covered the known probability under stated assumptions |
+| Native generation reproduction | 16/16 and 12/12 recorded output matches in two reported checks |
+| Structural reliability | 12,288/12,288 reference comparison matches |
+| Software qualification | 922 workspace library unit tests passed |
+
+Further multilingual experiments revealed challenges in language understanding and decision consistency.
+
+These results are specific to their respective experimental conditions. They do not establish general-purpose AI capability, independent experimental validation, or measured hardware efficiency.
+
+[Read the complete Part II research paper (PDF)](research-paper-part-ii-nov-2026.pdf)
