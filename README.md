@@ -36,6 +36,55 @@ The results have different test designs and should **not** be combined into a si
 
 ![Knowledge accuracy in three controlled learning conditions](learning_accuracy.png)
 
+## Research progress — Part II (27 November 2026)
+
+### From controlled experiments to executable intelligence
+
+Following the initial research, I investigated how AI systems can acquire new capabilities, recognise incorrect learning, verify proposed knowledge, and preserve reliability as the work moves toward executable software. Further experiments also explored mathematical verification, bounded generation, multilingual instruction understanding, and computational reliability.
+
+### Selected results — Part II
+
+| Study | Recorded result | Test scope |
+|---|---|---|
+| Finite-domain learning | **72/72** supported tasks learned | Controlled finite-domain tasks |
+| Incorrect learning detection | **48/48** incorrect candidates rejected; **0/48** promoted | Unsupported tasks in the same controlled study; all initially produced incorrect candidates |
+| Conditional statistical evaluation | **1,200/1,200** intervals covered the known probability | Synthetic trials under stated statistical assumptions |
+| Real-model decision evaluation | **36/40** decisions correct | Recorded finite-domain decisions regraded against a separate mathematical reference |
+| Bounded native generation | **16/16** and **12/12** recorded outputs reproduced; **164/164** inputs produced bounded output | October reconstruction of historical learned behavior; not a new training benchmark |
+| Multilingual decision consistency | **12/12** cases completed; all 12 showed at least one disagreement | English, Hindi and Hinglish development study; 60 model requests |
+| Language boundary development | **8/8** identified boundary breaches addressed; **42/42** expected bounded proposals preserved | Development checks, not independent semantic accuracy |
+| Structural reliability | **12,288/12,288** reference comparison matches | Exhaustive finite structural comparison without the operational search cap |
+| Software qualification | **922** workspace library unit tests passed | 13 November bounded software qualification; additional integration and code-quality checks reported |
+
+These results come from different studies and cannot be combined into a single AI performance score. They include recorded experiments, reproduction evidence, development diagnostics, and software qualification results.
+
+### Figures — Part II
+
+**Learning and verification** — successful acquisition in the supported domain and rejection of incorrect candidates outside it.
+
+![Finite-domain learning and verification](part_ii_learning_verification.png)
+
+**Bounded native generation** — historical agreement with a reference model, revisited through October output reproduction. Performance on out-of-distribution paraphrases remained limited.
+
+![Historical bounded generation results](part_ii_native_generation.png)
+
+**Language boundary checks** — observed development corrections and preservation of previously supported proposals.
+
+![Language boundary development checks](part_ii_language_boundary.png)
+
+The figures above are redrawn from recorded experimental values for this repository. They are not additional experimental runs.
+
+### Scientific observations and remaining questions
+
+- Learning a behavior and establishing its correctness are separate challenges. Successful examples alone may not reveal incorrect learning elsewhere.
+- Reproducing bounded generative behavior does not establish general language competence or factual accuracy.
+- Multilingual experiments revealed decision inconsistency, even when all cases completed. Independent semantic assessment remains necessary.
+- Software reliability and computational work reduction are being investigated separately from measured hardware performance.
+
+The results remain limited to their respective experimental conditions. General-purpose AI capability, independent external validation, measured hardware efficiency, and production readiness have not been established by these findings.
+
+**Full research continuation:** [Read Part II — From Controlled Experiments to Executable Intelligence (PDF)](research-paper-part-ii-nov-2026.pdf)
+
 ## Short research overview
 
 [Read the two-page overview (PDF)](research-introduction-nov-2026.pdf).
